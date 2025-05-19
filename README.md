@@ -7,3 +7,4 @@ Este repositório contém anotações e dicas práticas sobre como criar, config
 - [Conectando-se à VM](02-conectando-vm.md)
 - [Configurando o ambiente backend](03-configurando-ambiente-backend.md)
 - [Dicas e boas práticas](04-dicas-gerais.md)
+- [Expondo a aplicação](05-expondo-aplicacao.md)
